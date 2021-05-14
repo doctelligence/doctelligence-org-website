@@ -1,4 +1,4 @@
 # Welcome to Doctelligence.org!
 
-DAO (Decentralised Autonomous Organization)
+DAO (Decentralized Autonomous Organization)
 
