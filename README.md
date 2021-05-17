@@ -1,2 +1,3 @@
-**#Welcome to Doctelligence.org!
+#Welcome to Doctelligence.org!
+
 DAO (Decentralized Autonomous Organization)
