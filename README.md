@@ -2,6 +2,11 @@
 
 DAO (Decentralized Autonomous Organization)
 
-be collaborative more than competative...agile and broad to allow time for experimentation and inclusiveness.
+Healthcare is not universal right, nor a universal process, it is a human collective effort...
 
-Healthcare is displaced within the mindsets of many as a money making machine...we should be building in mind that the ideal total value and holding of the tokens accrues to nothing (o=∞) becuase this will mean indivudals will be healthy as defined by modern medicine. Ideally, doctelligence will have no value and cease to exist (o=∞) reappearing only when it is needed
+Choose to be a Foundation because stakeholders of healhtcare when centralised result in the self-interests of the entity over health of the individual
+
+Ideally, doctelligence will have no value and cease to exist (o=∞) reappearing only when it is needed for healthcare. We should be building in mind that the ideal total value of the tokens is nothing (o=∞) as this will mean indivudals no longer require any healthcare provision
+
+Be collaborative more than competative...agile, broad and general to allow time for inclusiveness, prototyping and experimentation.
+
