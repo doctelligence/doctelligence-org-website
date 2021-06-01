@@ -2,7 +2,7 @@
 
 DAO (Decentralized Autonomous Organization)
 
-Healthcare is not universal right, nor a universal process, it is a human collective effort...
+Healthcare is not universal right, it is a human collective effort...
 
 As a Foundation because stakeholders of healhtcare when centralised result in the self-interests of the entity over health of the individual
 
