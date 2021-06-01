@@ -6,7 +6,8 @@ Healthcare is not universal right, it is a human collective effort...
 
 As a Foundation because stakeholders of healhtcare when centralised result in the self-interests of the entity over health of the individual
 
-Ideally, doctelligence will have no value and cease to exist (o=∞) reappearing only when it is needed for healthcare. We should be building in mind that the ideal total value of the tokens is nothing (o=∞) as this will mean indivudals no longer require any healthcare provision
+Doctelligence will have no value and cease to exist (o=∞) reappearing only if and when it is needed. 
 
-Be collaborative more than competative...agile, broad and general to allow time for inclusiveness, prototyping and experimentation.
+We should be building in mind that the value of the tokens becomes nothing (o=∞). This will mean indivudals no longer require any healthcare.
 
+Life-oriented and agile allow time for inclusiveness, adaptation, experimentation, and prototyping. 
